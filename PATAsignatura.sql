@@ -1,6 +1,5 @@
 --PA para TCarrera
---Maricarmen DIAZ CHAVEZ
----17/2/20
+-- author: Luis mikhail Palomino Paucar
 use BDAcademico
 go
 
