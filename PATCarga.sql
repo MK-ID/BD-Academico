@@ -1,5 +1,5 @@
 --PA para TCarga
---Maricarmen DIAZ CHAVEZ
+-- author: Luis mikhail Palomino Paucar
 use BDAcademico
 go
 
